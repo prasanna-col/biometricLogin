@@ -1,0 +1,13 @@
+current directory: /Users/cipl/Documents/test_projects/biologin/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/cipl/.rvm/rubies/ruby-2.7.1/bin/ruby -I /Users/cipl/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0 -r ./siteconf20230830-27398-1us7p2a.rb extconf.rb
+creating Makefile
+
+current directory: /Users/cipl/Documents/test_projects/biologin/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/cipl/Documents/test_projects/biologin/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/cipl/Documents/test_projects/biologin/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
